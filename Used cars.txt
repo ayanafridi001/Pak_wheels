@@ -1,0 +1,18 @@
+price Rs     Company	  model	               Contact no.
+
+21,00,000     Toyota	Prado(1997)	        03138889999
+
+
+3,40,000      Suzuki	Bolan(1998)	        03140011223
+
+
+14,30,000     Toyota	Corolla XLI(2013)	03001234567
+
+10,00,000     Honda	Civic Vti(2002)	03130001112
+
+
+
+
+50000     Suzuki	Mehran	
+12345     sdqwe	2020	002398824
+
